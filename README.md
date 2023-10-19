@@ -3,7 +3,7 @@
 # Losangeles Mountains
 
  ![image](./assets/project.png)
-> In this project, users can display the schedules for climbing the Losangeles Mountains.
+> Explore the rich history of the Los Angeles mountains and stay updated on upcoming climbing schedules with our dedicated website.
 
 ## Built With
 
