@@ -247,6 +247,7 @@ height: 100px;
   justify-content: space-between;
   position: absolute;
   top: 100px;
+  padding: 10%;
 }
 .date {
   justify-content: space-between;
